@@ -1,48 +1,51 @@
-# Kailash Nirhoo - Portfolio Website
+# Kailash Nirhoo - Personal Portfolio
 
-🌐 **Personal developer portfolio showcasing my projects, skills, and professional journey**
+🚀 **Modern developer portfolio showcasing my skills, projects, and professional journey**  
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-View_My_Portfolio-2ea44f?style=for-the-badge)](https://yourportfolio.com)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_My_Portfolio-2ea44f?style=for-the-badge&logo=vercel)](https://kailash10-cpu.github.io/personal-website/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
-## 🖥️ Screenshot
-![Portfolio Preview](/screenshot.png) *(Upload a screenshot and link it here)*
+![Portfolio Screenshot](Screenshot%202025-07-10%20115545.png)
 
-## ✨ Features
-- **Modern UI/UX** with responsive design
-- **Project showcase** with case studies
-- **Interactive elements** (animations, dark mode, etc.)
-- **Contact form** with email integration
-- **Blog section** (optional)
+## ✨ Key Features
+- **Responsive Design**: Mobile-optimized UI
+- **Project Gallery**: Filterable project showcase
+- **Interactive Elements**: Smooth animations and transitions
+- **Direct Contact**: Email integration
+- **Dark/Light Mode**: Toggleable theme (if applicable)
 
 ## 🛠️ Tech Stack
-**Core:**
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-**Deployment:**
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
+**Tools:**  
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?logo=github-pages)
 
-## 🚀 Installation
+## 🚀 Deployment
 ```bash
-git clone https://github.com/yourusername/portfolio.git
-cd portfolio
-npm install
-npm run dev
+# Clone repository
+git clone https://github.com/Kailash10-cpu/personal-website.git
 
-📂 Project Structure
-├── public/          # Static assets
-├── src/
-│   ├── components/  # React components
-│   ├── pages/       # Website sections
-│   ├── styles/      # Global CSS/Tailwind
-│   └── utils/       # Helper functions
-├── package.json
+# Open in browser
+open index.html  # or manually drag HTML file to browser
+
+📂 File Structure
+
+├── assets/
+│   ├── css/        # Stylesheets
+│   ├── js/         # Scripts
+│   └── images/     # Portfolio images
+├── index.html      # Main page
 └── README.md
 
-🔗 Connect
+📜 License
+MIT Licensed. See LICENSE for details.
+
+🌐 Connect
 https://img.shields.io/badge/LinkedIn-Kailash_Nirhoo-0077B5?logo=linkedin
 https://img.shields.io/badge/Email-kailashnirhoo08@gmail.com-D14836?logo=gmail
-https://img.shields.io/badge/GitHub-Kailash_Nirhoo-181717?logo=github
+https://img.shields.io/badge/GitHub-Kailash10_cpu-181717?logo=github
+
+
