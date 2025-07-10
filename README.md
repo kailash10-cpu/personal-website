@@ -43,8 +43,7 @@ open index.html  # or manually drag HTML file to browser
 📜 License
 MIT Licensed. See LICENSE for details.
 
-## 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kailash_Nirhoo-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kailash-nirhoo-19297b217)
-[![Email](https://img.shields.io/badge/Email-kailashnirhoo08@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:kailashnirhoo08@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Kailash10_cpu-181717?style=for-the-badge&logo=github)](https://github.com/Kailash10-cpu)
+## 🔗 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kailash_Nirhoo-0077B5?logo=linkedin)](https://www.linkedin.com/in/kailash-nirhoo-19297b217)
+[![Email](https://img.shields.io/badge/Email-kailashnirhoo08@gmail.com-D14836?logo=gmail)](mailto:kailashnirhoo08@gmail.com)
 
