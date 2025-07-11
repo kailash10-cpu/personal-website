@@ -12,7 +12,7 @@
 - **Project Gallery**: Filterable project showcase
 - **Interactive Elements**: Smooth animations and transitions
 - **Direct Contact**: Email integration
-- **Dark/Light Mode**: Toggleable theme (if applicable)
+- **Dark/Light Mode**: Toggleable theme 
 
 ## 🛠️ Tech Stack
 **Frontend:**  
